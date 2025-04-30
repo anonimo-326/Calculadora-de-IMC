@@ -1,0 +1,49 @@
+body{
+    background-color: darkblue;
+}
+.corpo{
+    background-color: darkred;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+    height: 500px;
+    border-radius: 5%;
+}
+.titulo{
+    color: whitesmoke;
+}
+.peso{
+    color: whitesmoke;
+}
+.entrada1{
+    background-color: transparent;
+    color: whitesmoke;
+    width: 400px;
+    height: 50px;
+    border-radius: 10%;
+}
+.altura{
+    color: whitesmoke;
+}
+.entrada2{
+    background-color: transparent;
+    color: whitesmoke;
+    width: 400px;
+    height: 50px;
+    border-radius: 10%;
+}
+.botao{
+    background-color: blue;
+    color: whitesmoke;
+    width: 200px;
+    height: 50px;
+    border-radius: 10%;
+}
+.label1{
+    color: whitesmoke;
+}
+.label2{
+    color: whitesmoke;
+}
